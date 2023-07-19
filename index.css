@@ -1,0 +1,84 @@
+
+/*
+* {
+  line-height: 1.5;  
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color:crimson;
+}
+
+ul {
+  list-style: circle;
+}
+
+img {
+  width: 200px;
+  border: 1px solid black;
+}
+
+.recipe-card {
+  width: 600px;
+  background-color: #7d3131;
+  text-align: center;
+}
+
+.recipe-content {
+  text-align: left;
+}
+
+.recipe-card.feature {
+  border: 21px lightblue;
+}
+*/
+
+* {
+  background-color: peachpuff;
+  font-family: monospace;
+}
+
+h1 {
+  padding-top: 50px;
+  text-align: center;
+  color: crimson;
+  font-size: 64px;
+  font-weight:300;
+}
+
+.dog_pic {
+  width: 650px;
+  height: auto;
+  border: 10px solid;
+  border-color: goldenrod;
+  border-radius: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.recipes {
+    text-align: center;
+    padding: 25px 50px;
+}
+
+.mexican {
+  display: inline-block;
+  text-align: left;
+  font-size: 32px;
+  line-height: 45px;
+}
+
+.back {
+  text-align: center;
+  padding: 25px 50px;
+}
+
+.go_back {
+  display: inline-block;
+  text-align: left;
+  font-size: 24px;
+}
