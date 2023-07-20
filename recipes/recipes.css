@@ -13,6 +13,7 @@ h1 {
 }
 
 .food_pic {
+    box-sizing: border-box;
     height: 500px;
     width: auto;
     display: block;
@@ -20,9 +21,11 @@ h1 {
     margin-right: auto;
     border: 10px solid;
     border-color: green;
-    border-radius: 3%;
+    border-radius: 6%;
+    padding: 15px;
+    border: 5px double red;
+    box-shadow: 25px 45px burlywood;
 }
-
 .some-class {
     text-align: center;
 }
@@ -35,6 +38,7 @@ h1 {
 
 .top-list {
     text-align: center;
+    box-sizing: content-box;
 }
 
 .bottom-list {
